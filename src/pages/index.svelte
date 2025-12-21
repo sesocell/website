@@ -48,6 +48,24 @@
                 </p>
             </div>
         </section>
+        <section id="contributed-projects">
+					<h2>Contributed Projects</h2>
+
+					<div class="project-item">
+						<h3><a href="https://github.com/LibreTurks/usmanagabot">usmanagabot</a></h3>
+						<span class="project-meta">GitHub Actions</span>
+						<p>
+						    UsmanAga is a powerful and feature-rich Discord bot built with TypeScript and the Discord.js library. It's designed to be modular, extensible, and easy to maintain.
+						</p>
+					</div>
+					<div class="project-item">
+						<h3><a href="https://github.com/xeome/slimserve">slimserve</a></h3>
+            <span class="project-meta">GitHub Actions, Kubernetes, Helm</span>
+						<p>
+						    SlimServe is a minimalistic and efficient file-serving application that provides seamless file sharing over HTTP with minimal dependencies, configuration, and resource usage. Built with a philosophy of being simple, fast, and easy to use.
+						</p>
+					</div>
+				</section>
 
         <section id="contact">
             <h2>Contact</h2>
