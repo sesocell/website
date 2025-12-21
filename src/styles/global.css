@@ -6,13 +6,13 @@
         "Monaspace Neon", Menlo, Monaco, Consolas, "Liberation Mono",
         "Courier New", monospace;
 
-    --color-bg: #ffffff;
-    --color-text: #111111;
-    --color-heading: #000000;
-    --color-border: #000000;
-    --color-accent: #000000;
-    --color-code-bg: #eeeeee;
-    --color-code-text: #000000;
+    --color-bg: #000000;
+    --color-text: #cccccc;
+    --color-heading: #ffffff;
+    --color-border: #ffffff;
+    --color-accent: #ffffff;
+    --color-code-bg: #222222;
+    --color-code-text: #ffffff;
 
     --spacing-sm: 0.5rem;
     --spacing-md: 1rem;
@@ -20,18 +20,6 @@
     --spacing-xl: 4rem;
 
     --container-width: 800px;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --color-bg: #000000;
-        --color-text: #cccccc;
-        --color-heading: #ffffff;
-        --color-border: #ffffff;
-        --color-accent: #ffffff;
-        --color-code-bg: #222222;
-        --color-code-text: #ffffff;
-    }
 }
 
 *,
