@@ -11,11 +11,10 @@
     </nav>
 
     <header>
-        <h1>Yağız</h1>
-        <div class="role">Linux Enthusiast | Trabzon/Türkiye</div>
+        <h1>Semih</h1>
+        <div class="role">Engineer</div>
         <div class="focus">
-            Passionate about programming, GNU/Linux, and exploring computer
-            science through hands-on projects and system-level learning.
+Passionate about programming.
         </div>
     </header>
 
@@ -23,10 +22,7 @@
         <section id="about">
             <h2>About</h2>
             <p>
-                I'm a high school student passionate about programming and
-                GNU/Linux. I'm actively improving my computer science skills,
-                exploring how operating systems and software work, and learning
-                by building small projects and experimenting.
+				 I focus on improving my skills by building projects, experimenting with new technologies, and learning how systems and applications work.
             </p>
         </section>
 
