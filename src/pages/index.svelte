@@ -6,9 +6,6 @@
     <nav>
         <ul>
             <li><a href="#projects">Projects</a></li>
-            <li>
-                <a href="https://notes.yagis.dev" target="_blank">Notes ↗</a>
-            </li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
@@ -70,18 +67,18 @@
         <section id="contact">
             <h2>Contact</h2>
             <div class="contact-links">
-                <a href="mailto:yagiz@yagis.dev">Email: yagiz@yagis.dev</a>
+                <a href="mailto:sesocell@proton.me">Email: sesocell@proton.me</a>
                 <span>/</span>
-                <a href="https://github.com/saveside">GitHub: saveside</a>
+                <a href="https://github.com/sesocell">GitHub: sesocell</a>
                 <span>/</span>
-                <a href="https://discord.com/users/1290338311965249538"
-                    >Discord: savew.sh</a
+                <a href="https://discord.com/users/1056200154157416469"
+                    >Discord: sesocell</a
                 >
             </div>
         </section>
     </main>
 
     <footer>
-        &copy; {currentYear} Yağız. Built with Svelte.
+        &copy; {currentYear} sesocell.
     </footer>
 </div>
